@@ -1,5 +1,3 @@
-// ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructors, deprecated_member_use
-
 library flutter_pkg;
 
 import 'package:flutter/material.dart';
@@ -33,17 +31,5 @@ class CustomButton extends StatelessWidget {
         onPressed: onPressed,
       ),
     );
-    // return TextButton(
-    //     onPressed: onPressed,
-    //     style: TextButton.styleFrom(
-    //       padding: const EdgeInsets.all(16.0),
-    //       primary: Colors.white,
-    //       backgroundColor: Colors.purple,
-    //       elevation: 9.0,
-    //       textStyle: const TextStyle(
-    //         fontSize: 20,
-    //       ),
-    //     ),
-    //     child: child);
   }
 }
