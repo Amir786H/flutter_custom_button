@@ -1,4 +1,4 @@
-library flutter_pkg;
+library flutter_demo_pkg;
 
 import 'package:flutter/material.dart';
 

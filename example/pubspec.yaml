@@ -29,7 +29,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_pkg:
+  flutter_demo_pkg:
     path: ../
 
 
